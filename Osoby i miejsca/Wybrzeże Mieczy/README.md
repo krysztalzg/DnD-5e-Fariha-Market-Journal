@@ -1,0 +1,11 @@
+Journal Entries for `fariha-market\Osoby i miejsca\Wybrzeże Mieczy`:
+- [Neverwinter](Neverwinter.md)
+- [Zatoka Hathera ](Zatoka%20Hathera%20.md)
+- [Candlekeep](Candlekeep.md)
+- [Ruiny Kennmouth](Ruiny%20Kennmouth.md)
+- [Ruiny mrocznego opactwa](Ruiny%20mrocznego%20opactwa.md)
+- [Kopiec Dusz](Kopiec%20Dusz.md)
+- [Wioska Yokotoro](Wioska%20Yokotoro.md)
+- [Waterdeep](Waterdeep.md)
+- [Krypta z nieumarłymi](Krypta%20z%20nieumar%C5%82ymi.md)
+- [Daggerford](Daggerford.md)
