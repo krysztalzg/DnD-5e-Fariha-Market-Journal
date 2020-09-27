@@ -1,0 +1,1 @@
+<p><img src="images/Handouts/waterdeep_god_catcher.png" alt="" width="1533" height="938"></p>

@@ -1,0 +1,1 @@
+<p><img src="images/NPC%20%26%20Monsters/Lerissa_Temerity.png" alt="" width="2356" height="3300" /></p>

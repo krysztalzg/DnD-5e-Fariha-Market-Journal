@@ -1,0 +1,1 @@
+<p><img src="images/NPC%20%26%20Monsters/Laeral_Silverhand.jpg" alt="" width="455" height="800"></p>

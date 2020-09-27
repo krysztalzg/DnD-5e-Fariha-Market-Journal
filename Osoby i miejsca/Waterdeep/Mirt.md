@@ -1,0 +1,1 @@
+<p><img src="images/NPC%20%26%20Monsters/mirt.jpg" alt="" width="522" height="800"></p>

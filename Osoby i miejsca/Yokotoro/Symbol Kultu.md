@@ -1,0 +1,1 @@
+<p><img src="images/Handouts/crushing_wave_symbol.png" alt="" width="1152" height="1092" /></p>

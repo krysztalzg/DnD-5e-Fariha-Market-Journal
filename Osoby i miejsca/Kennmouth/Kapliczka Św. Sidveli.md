@@ -1,0 +1,1 @@
+<p><img src="images/Handouts/st_sidvela.png" alt="" width="1154" height="458"></p>

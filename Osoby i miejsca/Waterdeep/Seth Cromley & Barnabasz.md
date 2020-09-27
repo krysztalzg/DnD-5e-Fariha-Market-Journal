@@ -1,0 +1,1 @@
+<p><img src="images/NPC%20%26%20Monsters/seth_cromley.jpg" alt="" width="977" height="1318"></p>

@@ -1,0 +1,1 @@
+<p><img src="images/NPC%20%26%20Monsters/barok.jpg" alt="" width="587" height="800"></p>

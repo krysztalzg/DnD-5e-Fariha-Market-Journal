@@ -1,0 +1,1 @@
+<p>Jaskinia, w której drużyna walczyła z nieumarłymi podczas swojego pierwszego zadania.</p>

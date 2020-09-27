@@ -1,0 +1,1 @@
+<p>Z okolic tego lasu dochodzi taka sama aura jak od kamieni z jaskini na wybrzeżu. Ruiny jaskiń stworzonych przez nekromantę Zhilvera.&nbsp;</p>

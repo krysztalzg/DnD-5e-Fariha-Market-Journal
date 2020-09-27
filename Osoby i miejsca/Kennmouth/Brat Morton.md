@@ -1,0 +1,1 @@
+<p><img src="images/NPC%20%26%20Monsters/morton.png" alt="" width="689" height="943"></p>

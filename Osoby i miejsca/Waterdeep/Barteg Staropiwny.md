@@ -1,0 +1,1 @@
+<p><img src="images/NPC%20%26%20Monsters/barteg.jpg" alt="" width="1920" height="1386"></p>

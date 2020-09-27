@@ -1,0 +1,1 @@
+<p>Ruiny miasta Kennmouth, które przez 50 lat były zamieszkane przez nieumarłych pod wpływem klątwy.&nbsp;</p>

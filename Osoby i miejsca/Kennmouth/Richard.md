@@ -1,0 +1,1 @@
+<p><img src="images/NPC%20%26%20Monsters/richard.png" alt="" width="799" height="1206"></p>

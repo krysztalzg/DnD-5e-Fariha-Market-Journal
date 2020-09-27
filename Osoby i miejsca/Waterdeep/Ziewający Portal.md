@@ -1,0 +1,1 @@
+<p><img src="images/Handouts/yawning_portal.jpg" alt="" width="1536" height="1112"></p>

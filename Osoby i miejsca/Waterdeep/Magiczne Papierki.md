@@ -1,0 +1,1 @@
+<p>Sklep z magicznymi zwojami i księgami.</p>

@@ -1,0 +1,1 @@
+<p>Niewielka wioska rybacka, gdzie drużyna spotkała Kathryn Reed.&nbsp;</p>

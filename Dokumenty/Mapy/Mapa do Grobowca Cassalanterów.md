@@ -1,0 +1,1 @@
+<p><img src="images/Maps/cassalanters_mausoleum.png" alt="" width="531" height="876"></p>

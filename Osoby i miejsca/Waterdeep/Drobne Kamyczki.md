@@ -1,0 +1,1 @@
+<p>Zakład jubilerski specjalizujący się w kolczykach i naszyjnikach.&nbsp;</p>

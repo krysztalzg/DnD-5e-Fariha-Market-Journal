@@ -1,0 +1,1 @@
+<p><img src="images/NPC%20%26%20Monsters/tiefling_enchanter.jpg" alt="" width="492" height="745"></p>

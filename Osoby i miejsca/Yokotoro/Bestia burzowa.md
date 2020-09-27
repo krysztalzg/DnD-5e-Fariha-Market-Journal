@@ -1,0 +1,1 @@
+<p><img src="images/NPC%20%26%20Monsters/bestia_burzowa.png" alt="" width="2558" height="1339" /></p>

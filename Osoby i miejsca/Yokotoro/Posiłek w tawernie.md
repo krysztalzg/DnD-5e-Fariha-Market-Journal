@@ -1,0 +1,1 @@
+<p><img src="images/Handouts/food_tavern.png" alt="" width="2558" height="1713"></p>

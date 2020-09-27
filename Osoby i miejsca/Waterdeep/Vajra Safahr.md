@@ -1,0 +1,1 @@
+<p><img src="images/NPC%20%26%20Monsters/vajra.png" alt="" width="417" height="800"></p>

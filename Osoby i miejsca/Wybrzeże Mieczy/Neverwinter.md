@@ -1,0 +1,1 @@
+<p>Aktualnym lordem miasta Neverwinter jest ojciec @JournalEntry[Wyh5g69l4bp4kdID]{Renaera}, Dagult Neverember.</p>

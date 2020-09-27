@@ -1,0 +1,1 @@
+<p><img src="images/NPC%20%26%20Monsters/aina.png" alt="" width="480" height="795"></p>

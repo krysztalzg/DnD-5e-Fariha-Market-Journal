@@ -1,0 +1,1 @@
+<p><img src="images/NPC%20%26%20Monsters/waterdeep_fel%27rekt_lafeen.png" alt="" width="476" height="962"></p>

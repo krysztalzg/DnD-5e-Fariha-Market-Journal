@@ -1,0 +1,1 @@
+<p><img src="images/NPC%20%26%20Monsters/hlam.png" alt="" width="574" height="800"></p>

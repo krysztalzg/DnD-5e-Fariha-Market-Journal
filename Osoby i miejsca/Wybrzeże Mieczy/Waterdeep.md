@@ -1,0 +1,1 @@
+<p><img src="images/Handouts/waterdeep_cover.jpg" alt="" width="2000" height="1037"></p>

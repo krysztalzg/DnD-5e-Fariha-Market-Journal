@@ -1,0 +1,1 @@
+<p><img src="images/Handouts/korona_czarnych_pere%C5%82.png" alt="" width="2162" height="2362" /></p>

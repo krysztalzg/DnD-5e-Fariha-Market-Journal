@@ -1,0 +1,1 @@
+<p><img src="images/Handouts/yokotoro_village.png" alt="" width="2558" height="1647"></p>

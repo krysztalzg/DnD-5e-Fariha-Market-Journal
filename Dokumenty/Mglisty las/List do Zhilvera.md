@@ -1,0 +1,3 @@
+<h4><strong>Uczniu,</strong></h4>
+<h4>Być może nie dotarły jeszcze do Ciebie wieści z wybrzeża, ale Piątemu nie udało się spełnić moich oczekiwań. Poległ w trakcie wykonywania rytuału powiązania. Na szczęście nie musimy się przejmować sprzątaniem, ponieważ jakaś zbieranina z miasta zrobiła to za nas.<br>Mam nadzieję, że Twoje przygotowania idą zgodnie z planem i wyrobisz się na czas. Drugi i Trzeci są już prawie gotowi by dołączyć do mnie na Kościanym Tronie.</h4>
+<h4><strong>Twój mistrz, Pierwszy</strong></h4>

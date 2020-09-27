@@ -1,0 +1,1 @@
+<p><img src="images/Handouts/kennmouth_idol.png" alt="" width="422" height="769"></p>

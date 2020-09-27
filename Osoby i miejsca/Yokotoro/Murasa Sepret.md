@@ -1,0 +1,1 @@
+<p><img src="images/NPC%20%26%20Monsters/murasa_sepret.png" alt="" width="1980" height="3300" /></p>

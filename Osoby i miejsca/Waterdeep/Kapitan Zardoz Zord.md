@@ -1,0 +1,1 @@
+<p><img src="images/NPC%20%26%20Monsters/zardoz_zord.jpg" alt="" width="1024" height="703"></p>

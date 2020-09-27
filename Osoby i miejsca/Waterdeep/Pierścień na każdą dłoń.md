@@ -1,0 +1,1 @@
+<p>Zakład jubilerski specjalizujący się w sprzedaży pierścieni.&nbsp;</p>

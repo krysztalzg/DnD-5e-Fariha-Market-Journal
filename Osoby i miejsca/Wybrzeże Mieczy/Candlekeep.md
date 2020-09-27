@@ -1,0 +1,1 @@
+<p><img src="images/Handouts/candlekeep.jpg" alt="" width="793" height="549" /></p>

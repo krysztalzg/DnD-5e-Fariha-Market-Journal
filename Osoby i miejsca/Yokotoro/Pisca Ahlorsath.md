@@ -1,0 +1,1 @@
+<p><img src="images/NPC%20%26%20Monsters/pisca_in_tavern.png" alt="" width="2558" height="2164" /></p>
