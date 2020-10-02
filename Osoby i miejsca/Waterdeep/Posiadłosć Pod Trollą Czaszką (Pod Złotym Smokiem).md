@@ -1,2 +1,2 @@
-<p>@JournalEntry[swuVDsgvGYtpqkVZ]{Akt Własności} @JournalEntry[5dmCuN21FsOl43SQ]{Karczma Pod Złotym Smokiem}</p>
-<p><img src="images/Handouts/waterdeep_trollskull_manor.jpg" alt="" width="611" height="750"></p>
+<p><a href="/Dokumenty/Waterdeep/Akt%20W%C5%82asno%C5%9Bci.md">Akt Własności</a> <a href="/Dokumenty/Waterdeep/Karczma%20Pod%20Z%C5%82otym%20Smokiem.md">Karczma Pod Złotym Smokiem</a>&nbsp;</p>
+<p><img src="images/Handouts/waterdeep_trollskull_manor.jpg" alt="" width="611" height="750" /></p>

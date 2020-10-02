@@ -1,1 +1,1 @@
-<p>@JournalEntry[gpx2csJ52X8mSnh1]{Melannor Fellbranch}</p>
+<p><a href="/Osoby%20i%20miejsca/Waterdeep/Melannor%20Fellbranch.md">Melannor Fellbranch</a></p>
